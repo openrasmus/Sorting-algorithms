@@ -4,16 +4,6 @@ matplotlib.use("Agg")
 from celluloid import Camera
 import random 
 
-# def quicksort(array,)
-    
-
-
-# def q_partition(array,p,r):
-#     x = array[r]
-#     i = p-1
-#     for elements in range(p,r):
-
-
 def colors(array,color):
     colors = []
     for i in range(len(array)):
